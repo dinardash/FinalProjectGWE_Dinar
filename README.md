@@ -74,7 +74,7 @@ Artificial Intelligence (AI) tools (ChatGPT by OpenAI) were utilized as an assis
 - Assisting in debugging and resolving Python syntax or runtime errors.
 - Providing explanations of programming concepts and machine learning methods.
 - Suggesting improvements to code structure and implementation.
-- Refining grammar, wording, and sentence structure for documentation and project reports.
+- Refining grammar, wording, and sentence structure for documentation and presentation.
 
 ## Link Deployment
 https://finalprojectgwedinar.streamlit.app/
