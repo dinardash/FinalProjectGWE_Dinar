@@ -35,7 +35,7 @@ The project is intended to assist in understanding user opinions and identifying
 - NumPy
 - Scikit-learn
 - Hugging Face Transformers
-- IndoBERTweet
+- IndoBERT
 - BERTopic
 - Streamlit
 - Matplotlib
