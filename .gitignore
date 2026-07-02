@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Temporary Office files
+~$*
+
+# Sistem operasi
+.DS_Store
+Thumbs.db
+
+# Trainer checkpoint (tidak diperlukan untuk menjalankan aplikasi)
+test_trainer/
