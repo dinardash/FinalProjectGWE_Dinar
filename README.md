@@ -1,4 +1,8 @@
-# Sentiment Analysis and Topic Classification of Grab User Reviews Using IndoBERTweet and BERTopic
+# Sentiment Analysis and Topic Classification of Grab User Reviews Using IndoBERT and BERTopic
+
+## Developer
+Dinar Fadlilatunnisa 
+
 
 ## Overview
 
@@ -71,3 +75,6 @@ Artificial Intelligence (AI) tools (ChatGPT by OpenAI) were utilized as an assis
 - Providing explanations of programming concepts and machine learning methods.
 - Suggesting improvements to code structure and implementation.
 - Refining grammar, wording, and sentence structure for documentation and project reports.
+
+## Link Deployment
+https://finalprojectgwedinar.streamlit.app/
