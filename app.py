@@ -480,7 +480,7 @@ with tab4:
     with center:
         st.markdown("""
             <div class="card">
-                <div class="card-title">🧠 IndoBERTweet (Pre-trained Model)</div>
+                <div class="card-title">🧠 IndoBERT (Pre-trained Model)</div>
                 <div class="card-text">
                     Model NLP berbasis transformer yang dilatih menggunakan korpus berbahasa Indonesia,
                     sehingga mampu memahami konteks bahasa Indonesia dengan baik. Model ini juga
